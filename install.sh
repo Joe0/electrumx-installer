@@ -8,7 +8,7 @@ NC='\033[0m' # No Color
 DB_DIR="/db"
 UPDATE_ONLY=0
 USE_ROCKSDB=1
-ELECTRUMX_GIT_URL="https://github.com/kyuupichan/electrumx"
+ELECTRUMX_GIT_URL="https://github.com/xSke/electrumx"
 ELECTRUMX_GIT_BRANCH="master"
 
 
