@@ -1,5 +1,5 @@
 # electrumx-installer
-A script to automate the installation of electrumx 🤖
+A script to automate the installation of [electrumx](https://github.com/xSke/electrumx) 🤖
 
 Installing electrumx isn't really straight-forward (yet). You have to install the latest version of Python and various dependencies for
 one of the database engines. Then you have to integrate electrumx into your init system.
